@@ -1,0 +1,1 @@
+{"uuid":"2174a3c9-426c-4328-9043-2592be4ae6a2","name":"TApp Mobile Automation","children":["87721a5c-8fc1-437c-a10a-7cda4c117294"],"befores":[{"name":"StatingApplication","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1702323166514,"stop":1702323166526}],"afters":[],"start":1702323166476,"stop":1702323167812}
