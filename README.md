@@ -1,17 +1,21 @@
 Selenium Java Automation Project with Reporting 
+
 **Overview**
 This README provides essential information for using and contributing to the Selenium Java automation project.
+
 **Prerequisites**
 Java Development Kit (JDK) 8 or later
 Maven
 Allure Zip File (for ALlure Reporting)
+
 **Installation**
 - Clone the repository: git clone **https://github.com/samankhan98/SeleniumWebAutomationProject.git**
 - Navigate to the project: cd SeleniumWebAutomationProject
 - Build with Maven: mvn clean install
 
-**Usage
-Configuration**
+**Usage**
+
+**Configuration**
 Update config.properties for settings like the browser type and application URL.
 
 **Running Tests**
@@ -22,10 +26,12 @@ Extent reports are generated in the ExtentTestReport directory with name **Test-
 Allure reports are generated in the  directory with name **allure-results_1timestamp**.
 
 **Open Reports**
+
 **Extent Report:** 
  - Copy Absolute path
  - Go to chrome or any Web
  - paste url and Enter
+   
 **Allure Report**
 - if Allure is not added to system PATH
   * Go to directory
